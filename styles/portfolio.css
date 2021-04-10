@@ -42,6 +42,7 @@ nav li {
     list-style: none;
     line-height: 42px;
     margin-left: 15px;
+    font-weight: 700;
 }
 
 nav ul {
